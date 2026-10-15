@@ -1,0 +1,6 @@
+{
+  "name": "First Transport - Logistics Banner",
+  "description": "High-fidelity recreation of the First Transport hero banner design with clean black background, exact typography, layout, and export tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
